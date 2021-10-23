@@ -2,6 +2,12 @@
 
 This is a [ReactJS](https://reactjs.org) + [Vite](https://vitejs.dev) boilerplate to be used with [Tailwindcss](https://tailwindcss.com).
 
+
+## Description
+
+I built this file upload portal for a client. It leverages React and Tailwindcss to build a drag 'n' drop file upload system that interfaces
+with Amazon S3 and an external backend API. The upload functionality has been disabled in this repo.
+
 ## What is inside?
 
 This project uses many tools like:
